@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" role="img" aria-label="Placeholder da logo oficial do Porta Voz">
+  <!-- PLACEHOLDER — substituir por porta-voz-logo.svg oficial (não é a marca real) -->
+  <rect x="1.5" y="1.5" width="317" height="117" rx="14" fill="none" stroke="#E8842C" stroke-width="2" stroke-dasharray="8 6" opacity="0.55"/>
+  <path d="M34 50h20l16-13v46l-16-13H34z" fill="none" stroke="#E8842C" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M78 50c4 3 4 17 0 20M86 44c7 6 7 26 0 32" fill="none" stroke="#E8842C" stroke-width="3" stroke-linecap="round"/>
+  <text x="104" y="55" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#0A1930">Porta Voz</text>
+  <text x="104" y="80" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64748B">[ PLACEHOLDER — inserir logo oficial ]</text>
+</svg>

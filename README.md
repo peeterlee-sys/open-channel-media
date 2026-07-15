@@ -28,6 +28,9 @@ Em **Settings → Domains** do app, adicione seu domínio (ex.: `openchannelmedi
 ## Atualizações
 Qualquer `git push` na branch `main` publica automaticamente (`deploy_on_push: true`).
 
+## Política de privacidade
+Publicada em `/privacidade/` (também acessível como `/privacidade.html`). URL final: **https://openchannelmedia.com.br/privacidade** (após configurar o domínio). Para atualizar o texto, edite os dois arquivos: `privacidade/index.html` e `privacidade.html`.
+
 ## Pendências antes de divulgar
 - Integrar o formulário de demonstração a um destino real (e-mail/CRM) — hoje é demonstrativo.
 - Conferir e-mail, redes sociais, CNPJ e endereço no rodapé (placeholders [INSERIR …]).
